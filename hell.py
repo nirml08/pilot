@@ -1,1 +1,3 @@
-print("hell world")
+import name
+name=name.get_name()
+print(name)
