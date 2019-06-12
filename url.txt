@@ -1,3 +1,0 @@
-url="https://api.github.com/repos/nirml08/pilot"
-ref='+branch, headers = {"Authorization": "token "+token}).json()
-7ca6fb69f9fce1c75276f9ec7be1dde5416e6b95
